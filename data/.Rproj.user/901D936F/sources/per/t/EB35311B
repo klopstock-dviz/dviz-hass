@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588418586198.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3783510070",
+    "id" : "EB35311B",
+    "lastKnownWriteTime" : 1588420591,
+    "last_content_update" : 1588420602821,
+    "path" : "~/Documents/agh_immobilier/data/verif_data.R",
+    "project_path" : "verif_data.R",
+    "properties" : {
+        "cursorPosition" : "19,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

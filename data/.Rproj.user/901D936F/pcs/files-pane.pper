@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/agh_immobilier/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

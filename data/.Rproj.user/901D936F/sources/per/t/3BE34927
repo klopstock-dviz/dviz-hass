@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588422243139.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3BE34927",
+    "lastKnownWriteTime" : 1588420591,
+    "last_content_update" : 1588422243139,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3175FBF4",
+        "caption" : "annonces_init",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=annonces_init&cache_key=3175FBF4",
+        "displayedObservations" : 25092,
+        "environment" : "",
+        "expression" : "annonces_init",
+        "object" : "annonces_init",
+        "preview" : 0,
+        "totalObservations" : 25092,
+        "variables" : 13
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
